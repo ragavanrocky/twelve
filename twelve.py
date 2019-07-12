@@ -9,4 +9,4 @@ while p<len(c1):
 for p in range(p,len(c2)):
   yas+=ord(c2[p])-ord('a')+1
 print(yas)
-fdhagdjagfgai
+
